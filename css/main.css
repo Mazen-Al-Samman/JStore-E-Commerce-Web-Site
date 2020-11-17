@@ -1,0 +1,11 @@
+.page-link { 
+	border-radius : 50%;
+	margin-left: 5%;
+}
+form.delete input[type="submit"] { 
+	display: none;
+}
+@font-face {
+	font-family: Font1 ;
+	src: url(../fonts/Right.ttf);
+}
